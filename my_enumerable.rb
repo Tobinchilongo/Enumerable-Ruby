@@ -10,8 +10,8 @@ module MyEnumerable
   end
 
   def filter
-    newList = []
-    each { |item| newList << item if yield item }
-    newList
+    new_list = []
+    each { |item| new_list << item if yield item }
+    new_list
   end
 end
