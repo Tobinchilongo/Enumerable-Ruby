@@ -2,7 +2,7 @@
 
 # Enumerable with Ruby
 
-> A simple Ruby project built to decode morse code text.
+>In this project we learnt how to use a module inside the class. We created a class `my_list` and a module `my_enumerable`. The module `my_enumerable` implements a subset of the functionality of Enumerable.
 
 
 ## Built With
